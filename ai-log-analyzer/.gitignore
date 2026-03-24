@@ -1,0 +1,23 @@
+# Environment variables — NEVER commit this
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# Generated reports
+*_report.txt
