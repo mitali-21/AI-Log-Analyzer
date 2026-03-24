@@ -4,7 +4,7 @@ An **AI-powered log analysis system** that enables engineers to query applicatio
 
 Built using a **Retrieval-Augmented Generation (RAG)** architecture, this tool mimics how an experienced SRE debugs production issues — by correlating relevant log signals and explaining root causes.
 
-**Stack:** Python · LangChain · FAISS · OpenAI · Streamlit
+**Stack:** Python · LangChain · FAISS · Groq · Streamlit
 
 ---
 
